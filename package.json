@@ -1,0 +1,37 @@
+{
+  "name": "@resistdesign/context-builder",
+  "version": "0.0.0",
+  "description": "A utility for reading and merging context trees.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resistdesign/context-builder.git"
+  },
+  "keywords": [
+    "context",
+    "builder",
+    "node",
+    "js",
+    "es6",
+    "es7",
+    "es2015",
+    "es2016",
+    "tree",
+    "merge",
+    "object"
+  ],
+  "author": "Resist Design",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/resistdesign/context-builder/issues"
+  },
+  "homepage": "https://github.com/resistdesign/context-builder#readme"
+}
