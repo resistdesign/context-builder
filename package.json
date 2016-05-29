@@ -10,10 +10,12 @@
     "glob": "^7.0.3"
   },
   "devDependencies": {
-    "babel-core": "^5.8.38"
+    "babel-core": "^5.8.38",
+    "chai": "^3.5.0"
   },
   "scripts": {
-    "test": "mocha tests --require babel-core/register"
+    "test": "mocha tests --require babel-core/register",
+    "testw": "mocha tests --require babel-core/register -w"
   },
   "repository": {
     "type": "git",
